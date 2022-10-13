@@ -1,0 +1,50 @@
+{
+	"storyName": "extras",
+	"difficulties": "hard, hard, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"power hour",
+			"sla",
+			[
+				0,
+				175,
+				180
+			]
+		],
+		[
+			"kscalho",
+			"sla",
+			[
+				215,
+				200,
+				35
+			]
+		],
+		[
+			"luidy",
+			"sla",
+			[
+				46,
+				200,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "extras"
+}

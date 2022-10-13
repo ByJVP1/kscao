@@ -1,0 +1,58 @@
+{
+	"storyName": ">:)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"smudge",
+			"kscao",
+			[
+				255,
+				235,
+				150
+			]
+		],
+		[
+			"fragrant",
+			"kscao nervoso",
+			[
+				255,
+				235,
+				150
+			]
+		],
+		[
+			"glazed-eye",
+			"casco",
+			[
+				180,
+				140,
+				0
+                        ]
+                ],
+                [
+			"storm",
+			"kscao",
+			[
+				195,
+				220,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekk"
+}
